@@ -1,0 +1,15 @@
+[submodule "horo-api"]
+	path = horo-api
+	url = https://github.com/wlhyl/horo-api.git
+[submodule "horo-chart"]
+	path = horo-chart
+	url = https://github.com/wlhyl/horo-chart.git
+[submodule "horo-storage-api"]
+	path = horo-storage-api
+	url = https://github.com/wlhyl/horo-storage-api.git
+[submodule "horo-ui"]
+	path = horo-ui
+	url = https://github.com/wlhyl/horo-ui.git
+[submodule "horo-storage-ui"]
+	path = horo-storage-ui
+	url = https://github.com/wlhyl/horo-storage-ui.git
